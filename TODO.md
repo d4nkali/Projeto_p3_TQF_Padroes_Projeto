@@ -1,6 +1,5 @@
 # A fazer:
 
-- [ ] Banco de Dados;
 
 
 # Preparado (3):
@@ -9,7 +8,7 @@
 
 # Em progresso (5):
 
-
+- [ ] Banco de Dados;
 
 # Feito:
 
